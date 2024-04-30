@@ -1,12 +1,12 @@
-#ASCII Art Video : Bad Apple
+# ASCII Art Video : Bad Apple
 
-##Play Bad Apple!
+## Play Bad Apple!
 
 ```
 $ python run.py
 ```
 
-##Dependencies
+## Dependencies
 
 * To simply run the demo with sound effects, you need ```mplayer``` installed.
 
